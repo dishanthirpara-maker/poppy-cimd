@@ -1,0 +1,9 @@
+{
+  "client_id": "https://dishanthirpara-maker.github.io/poppy-cimd/client.json",
+  "client_name": "Poppy MCP Server (demo)",
+  "jwks_uri": "https://dishanthirpara-maker.github.io/poppy-cimd/jwks.json",
+  "redirect_uris": [
+    "http://127.0.0.1:3100/oauth/callback"
+  ],
+  "token_endpoint_auth_method": "private_key_jwt"
+}
